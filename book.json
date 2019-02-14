@@ -10,7 +10,7 @@
   "gitbook": "3.2.3", 
   "language": "en", 
   "plugins": [
-    "theme-comscore", 
+    "theme-default", 
     "-lunr", 
     "-search", 
     "search-plus", 
