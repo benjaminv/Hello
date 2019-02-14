@@ -126,5 +126,5 @@
       "showTypeInHeader": false
     }
   }, 
-  "root": "./src"
+  "root": "./docs"
 }
