@@ -1,16 +1,21 @@
 {
+    "theme-comscore": {
+        "showLevel": true
+    }
+}
+{
   "description": "Test Book", 
   "links": {
     "sidebar": {
       "Home Page": "http://www.google.com"
     }
   }, 
-  "author": "Crifan Li <admin@crifan.com>", 
+  "author": "ben", 
   "title": "Test book", 
   "gitbook": "3.2.3", 
   "language": "en", 
   "plugins": [
-    "theme-default", 
+    "theme-comscore", 
     "-lunr", 
     "-search", 
     "search-plus", 
