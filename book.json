@@ -1,9 +1,4 @@
 {
-    "theme-comscore": {
-        "showLevel": true,
-    }
-}
-{
   "description": "Test Book", 
   "links": {
     "sidebar": {
